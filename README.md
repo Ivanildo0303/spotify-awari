@@ -1,0 +1,2 @@
+# spotify-awari
+Exemplo API
